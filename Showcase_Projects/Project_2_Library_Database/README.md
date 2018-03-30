@@ -5,7 +5,7 @@ FINAL PROJECT - LIBRARY MANAGEMENT SYSTEM
 
 USING MS SQL SERVER 2014 EXPRESS, CREATE A DATABASE AND SCHEMA AS DEPICTED IN THE FOLLOWING DIAGRAM:
 
-![Database Schematic](https://github.com/kgaughan1/SQL-Project/blob/master/DBFinalDiagram.png)
+![Database Schematic](https://github.com/kgaughan1/SQL/blob/master/Showcase_Projects/Project_2_Library_Database/DBFinalDiagram.png?raw=true)
 
 YOU MAY CHOOSE YOUR OWN DATA TO POPULATE YOUR TABLES AS LONG AS YOUR DATABASE ENSURES THAT THE FOLLOWING CONDITIONS ARE TRUE:
 - There is a book called 'The Lost Tribe' found in the 'Sharpstown' branch.
